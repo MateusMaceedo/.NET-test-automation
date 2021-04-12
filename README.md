@@ -7,7 +7,7 @@
 Este projeto traz diversos exemplos de implementação de testes envolvendo aplicações baseadas no .NET 5. aplicações demonstrando a utilização de xUnit, MS Test, NUnit, Moq, NSubstitute, Fluent Assertions e SpecFlow listados aqui. A automação de testes com GitHub Actions e Azure DevOps também sera contemplada.
 
 #### Testes de Unidade
-- Os 3 exemplos a seguir demonstram a implementação de testes de unidade com os frameworks xUnit, NUnit e MSTest:
+Os 3 exemplos a seguir demonstram a implementação de testes de unidade com os frameworks xUnit, NUnit e MSTest:
 
 - <strong class="if ct">.NET 5 + Unit Testing + xUnit + Conversão de Temperaturas</strong>
 - <strong class="if ct">.NET 5 + Unit Testing + NUnit + Conversão de Temperaturas</strong>
