@@ -6,6 +6,10 @@
 
 Este projeto traz diversos exemplos de implementação de testes envolvendo aplicações baseadas no .NET 5. aplicações demonstrando a utilização de xUnit, MS Test, NUnit, Moq, NSubstitute, Fluent Assertions e SpecFlow listados aqui. A automação de testes com GitHub Actions e Azure DevOps também sera contemplada.
 
+Para realizar os testes de API com base no BDD, podemos escrever os testes utilizando o .Net Core com o framework SpecFlow. Uma das ferramentas que podemos utilizar para isso é o Visual Studio Code.
+
+#### Configuraçõa VS Code
+
 #### Testes de Unidade
 Os 3 exemplos a seguir demonstram a implementação de testes de unidade com os frameworks xUnit, NUnit e MSTest:
 
