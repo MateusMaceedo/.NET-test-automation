@@ -13,4 +13,9 @@ Os 3 exemplos a seguir demonstram a implementação de testes de unidade com os 
 - <strong class="if ct">.NET 5 + Unit Testing + NUnit + Conversão de Temperaturas</strong>
 - <strong class="if ct">.NET 5 + Unit Testing + MSTest + Conversão de Temperaturas</strong>
 
+#### Automação de testes de API usando o Newman
+[Exemplo de implementação de testes de uma API REST para conversão de temperaturas com Postman + Newman](https://github.com/renatogroffe/Postman-Newman-Testes_APITemperatura)
+
+
+
 
