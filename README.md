@@ -18,6 +18,9 @@ Os 3 exemplos a seguir demonstram a implementação de testes de unidade com os 
 - [Projeto base para automação](https://github.com/renatogroffe/DotNet5-xUnit-FluentAssertions-Refit_TesteAPI)
 - [Exemplo de API REST para contagem de acessos criada com o Preview 3 do .NET 6 + ASP.NET Core.](https://github.com/renatogroffe/ASPNETCore6-Preview3-HotReload-REST_API-ContagemAcessos)
 
+#### Repositórios base:
+- [Indicações para estudos .NET](https://github.com/renatogroffe)
+
 
 
 
